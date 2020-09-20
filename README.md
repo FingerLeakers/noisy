@@ -109,3 +109,11 @@ This project is licensed under the GNU GPLv3 License - see the [LICENSE.md](LICE
 This project has been inspired by
 * [RandomNoise](http://www.randomnoise.us)
 * [web-traffic-generator](https://github.com/ecapuano/web-traffic-generator)
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
